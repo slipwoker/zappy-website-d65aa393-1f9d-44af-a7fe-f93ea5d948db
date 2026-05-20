@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://peri-jerseys-israel-d65aa393.zappy5.app
+https://example.com
 A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic we
 
 ### פתרונות ביגוד קבוצתי
-https://peri-jerseys-israel-d65aa393.zappy5.app/teamwear-solutions
+https://example.com/teamwear-solutions
 פתרונות ביגוד קבוצתי | peri_jerseys_israel. sports retail stores
 
 ### אודות
-https://peri-jerseys-israel-d65aa393.zappy5.app/about
+https://example.com/about
 אודות | peri_jerseys_israel. sports retail stores
 
 ### צור קשר
-https://peri-jerseys-israel-d65aa393.zappy5.app/contact
+https://example.com/contact
 צור קשר | peri_jerseys_israel. sports retail stores
 
 ### Products
-https://peri-jerseys-israel-d65aa393.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - peri_jerseys_israel
 
 ### Cart
-https://peri-jerseys-israel-d65aa393.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://peri-jerseys-israel-d65aa393.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://peri-jerseys-israel-d65aa393.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://peri-jerseys-israel-d65aa393.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://peri-jerseys-israel-d65aa393.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://peri-jerseys-israel-d65aa393.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - peri_jerseys_israel
 
 ### Category
-https://peri-jerseys-israel-d65aa393.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - peri_jerseys_israel
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://peri-jerseys-israel-d65aa393.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://peri-jerseys-israel-d65aa393.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://peri-jerseys-israel-d65aa393.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Sports Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://peri-jerseys-israel-d65aa393.zappy5.app/sitemap.xml
-- Robots: https://peri-jerseys-israel-d65aa393.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://peri-jerseys-israel-d65aa393.zappy5.app/llms-full.txt
-- Products (JSON): https://peri-jerseys-israel-d65aa393.zappy5.app/products.json
-- Products (Google Merchant RSS): https://peri-jerseys-israel-d65aa393.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

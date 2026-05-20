@@ -2,13 +2,13 @@
 
 A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic wear for players and sports enthusiasts.
 
-Source: https://peri-jerseys-israel-d65aa393.zappy5.app
+Source: https://example.com
 
 ---
 
 ## sports retail stores — peri_jerseys_israel
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app
+URL: https://example.com
 Description: A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic we
 
 sports retail stores — peri_jerseys_israel
@@ -515,7 +515,7 @@ Sports Retail מוביל בישראל  ·  מדים לקבוצות ולשחקנ�
 
 ## פתרונות ביגוד קבוצתי — peri_jerseys_israel
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/teamwear-solutions
+URL: https://example.com/teamwear-solutions
 Description: פתרונות ביגוד קבוצתי | peri_jerseys_israel. sports retail stores
 
 פתרונות ביגוד קבוצתי — peri_jerseys_israel
@@ -1020,7 +1020,7 @@ Description: פתרונות ביגוד קבוצתי | peri_jerseys_israel. sport
 
 ## אודות — peri_jerseys_israel
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/about
+URL: https://example.com/about
 Description: אודות | peri_jerseys_israel. sports retail stores
 
 אודות — peri_jerseys_israel
@@ -1475,7 +1475,7 @@ peri jerseys israel נולדה מתוך אהבה אמיתית לכדורגל ו�
 
 ## צור קשר — peri_jerseys_israel
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/contact
+URL: https://example.com/contact
 Description: צור קשר | peri_jerseys_israel. sports retail stores
 
 צור קשר — peri_jerseys_israel
@@ -1904,7 +1904,7 @@ peri jerseys israel
 
 ## מוצרים
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - peri_jerseys_israel
 
 מוצרים - peri_jerseys_israel
@@ -2097,7 +2097,7 @@ Description: המוצרים שלנו - peri_jerseys_israel
 
 ## עגלת קניות
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - peri_jerseys_israel
@@ -2266,7 +2266,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - peri_jerseys_israel
@@ -2618,7 +2618,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - peri_jerseys_israel
@@ -2794,7 +2794,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - peri_jerseys_israel
@@ -3125,7 +3125,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - peri_jerseys_israel
@@ -3318,7 +3318,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - peri_jerseys_israel
@@ -3540,7 +3540,7 @@ peri_jerseys_israel מחויבת לשביעות רצון לקוחותיה. מד�
 
 ## פרטי המוצר
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - peri_jerseys_israel
 
 פרטי המוצר - peri_jerseys_israel
@@ -3711,7 +3711,7 @@ Description: פרטי המוצר - peri_jerseys_israel
 
 ## מוצרים
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - peri_jerseys_israel
 
 מוצרים - peri_jerseys_israel
@@ -3906,7 +3906,7 @@ Description: מוצרים - peri_jerseys_israel
 
 ## מדיניות פרטיות
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4124,7 +4124,7 @@ peri_jerseys_israel ("החברה", "אנו", "שלנו") מחויבת להגן �
 
 ## הצהרת נגישות
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4351,7 +4351,7 @@ peri_jerseys_israel מחויבת להנגיש את השירותים לכלל ה�
 
 ## תנאי שימוש
 
-URL: https://peri-jerseys-israel-d65aa393.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
