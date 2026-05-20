@@ -9890,14 +9890,14 @@ window.onload = function() {
                 '[pinterest_handle]',
                 // Old format (full URL placeholders)
                 '[social_facebook]',
-                '[social instagram]',
-                '[social_instagram]',
+                'https://instagram.com/football_jerseys_israel21?igsh=NmR5eDF1cWk3cDlu',
+                'https://instagram.com/football_jerseys_israel21?igsh=NmR5eDF1cWk3cDlu',
                 '[social whatsapp]',
                 '[social_whatsapp]',
                 '[social_twitter]',
                 '[social_linkedin]',
                 '[social_youtube]',
-                '[social_tiktok]',
+                'https://tiktok.com/@football_jerseys_i?_r=1&_t=ZS-96VgAHAKNHw',
                 '[social_pinterest]'
             ];
             
