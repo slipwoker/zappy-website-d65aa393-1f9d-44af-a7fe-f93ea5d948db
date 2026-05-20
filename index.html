@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "d65aa393-1f9d-44af-a7fe-f93ea5d948db";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "d65aa393-1f9d-44af-a7fe-f93ea5d948db";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -71px !important; padding-top: 71px !important;">
   <!-- Background Image -->
   <div class="index-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Cinematic dark sports tunnel entrance at a professional stadium, dramatic low-angle perspective with glowing LED tunnel lights casting electric blue and cyan light beams. A male athlete wearing a premium football jersey and shorts stands at the tunnel mouth, back to camera, facing the pitch. Deep shadows, lens flare, film grain texture, high contrast lighting, photorealistic, dark atmosphere with glowing edge lights on the jersey." width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="שחקן עם חליפת כדורגל פרימיום בכניסה לאצטדיון">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Cinematic dark sports tunnel entrance at a professional stadium, dramatic low-angle perspective with glowing LED tunnel lights casting electric blue and cyan light beams. A male athlete wearing a premium football jersey and shorts stands at the tunnel mouth, back to camera, facing the pitch. Deep shadows, lens flare, film grain texture, high contrast lighting, photorealistic, dark atmosphere with glowing edge lights on the jersey." width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="שחקן עם חליפת כדורגל פרימיום בכניסה לאצטדיון" data-hero-background="true" data-element-type="image" data-element-id="img-1779252579591-jpvszdxay">
   </div>
 
   <!-- Scrim Overlay -->
@@ -894,18 +894,18 @@
   <div class="index-hero-container">
     <div class="index-hero-content">
       <!-- Label -->
-      <span class="index-hero-label">מדי כדורגל · כדורסל · מכנסיים</span>
+      <p><span class="index-hero-label">מדי כדורגל · כדורסל · מכנסיים</span>
 
-      <!-- H1 -->
-      <h1 class="index-hero-h1">מדים שמרגישים<br><span class="index-hero-accent">כמו ניצחון</span></h1>
+      
+      </p><!-- H1 --><h1 class="index-hero-h1" style="">מדים שמרגישים<br><span class="index-hero-accent" style="color: rgb(17, 19, 21) !important;">כמו ניצחון</span></h1>
 
       <!-- Subtitle -->
-      <h3 class="index-hero-subtitle">ציוד קבוצתי פרימיום לכדורגל וכדורסל — מוכן למשחק, מוכן לאימון. בחר את הסגנון שלך.</h3>
+      <h3 class="index-hero-subtitle" style="">מדי משחק פרימיום לכדורגל וכדורסל — מוכן למשחק, מוכן לאימון. בחר את הסטייל שלך.</h3>
 
       <!-- CTA Buttons -->
       <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn-primary">צור קשר עכשיו</a>
-        <a href="/#collections" class="index-hero-btn-secondary">גלה את הקולקציה
+        <a href="/contact" class="index-hero-btn-primary" data-element-type="button" data-element-id="btn-1779252579586-p7rmrjwl8" data-native-element="true">צור קשר עכשיו</a>
+        <a href="/#collections" class="index-hero-btn-secondary" data-element-type="button" data-element-id="btn-1779252579586-mwgz98e6k" data-native-element="true">גלה את הקולקציה
           <svg data-element-type="icon" data-icon-type="svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
         </a>
       </div>
