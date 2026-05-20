@@ -1,0 +1,105 @@
+# peri_jerseys_israel — Generative Engine Optimization Map
+
+> A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic wear for players and sports enthusiasts.
+
+---
+
+## Pages
+
+### בית
+https://peri-jerseys-israel-d65aa393.zappy5.app
+A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic we
+
+### פתרונות ביגוד קבוצתי
+https://peri-jerseys-israel-d65aa393.zappy5.app/teamwear-solutions
+פתרונות ביגוד קבוצתי | peri_jerseys_israel. sports retail stores
+
+### אודות
+https://peri-jerseys-israel-d65aa393.zappy5.app/about
+אודות | peri_jerseys_israel. sports retail stores
+
+### צור קשר
+https://peri-jerseys-israel-d65aa393.zappy5.app/contact
+צור קשר | peri_jerseys_israel. sports retail stores
+
+### Products
+https://peri-jerseys-israel-d65aa393.zappy5.app/products
+המוצרים שלנו - peri_jerseys_israel
+
+### Cart
+https://peri-jerseys-israel-d65aa393.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://peri-jerseys-israel-d65aa393.zappy5.app/checkout
+תשלום
+
+### Login
+https://peri-jerseys-israel-d65aa393.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://peri-jerseys-israel-d65aa393.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://peri-jerseys-israel-d65aa393.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://peri-jerseys-israel-d65aa393.zappy5.app/product/:slug
+פרטי המוצר - peri_jerseys_israel
+
+### Category
+https://peri-jerseys-israel-d65aa393.zappy5.app/category/:slug
+מוצרים - peri_jerseys_israel
+
+## Legal & Policy
+
+### Privacy Policy
+https://peri-jerseys-israel-d65aa393.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://peri-jerseys-israel-d65aa393.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://peri-jerseys-israel-d65aa393.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About peri_jerseys_israel
+A sports apparel store specializing in football and basketball uniforms, as well as basketball shorts. The store focuses on team sports clothing and athletic wear for players and sports enthusiasts.
+
+## Services/Products
+- מדי כדורגל
+- מדי כדורסל
+- מכנסיי כדורסל
+
+## Target Audience
+- אוהדי כדורגל
+- אוהדי כדורסל
+- מדי ספורט
+
+## Industry
+Sports Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://peri-jerseys-israel-d65aa393.zappy5.app/sitemap.xml
+- Robots: https://peri-jerseys-israel-d65aa393.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://peri-jerseys-israel-d65aa393.zappy5.app/llms-full.txt
+- Products (JSON): https://peri-jerseys-israel-d65aa393.zappy5.app/products.json
+- Products (Google Merchant RSS): https://peri-jerseys-israel-d65aa393.zappy5.app/product-feed.xml
